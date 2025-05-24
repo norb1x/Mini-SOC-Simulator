@@ -1,0 +1,32 @@
+# would be created
+
+ 36 in last 5 minutes
+2025-05-24 13:06:21.000485: [ALERT] High failed login attempts from 4f4c4f2a: 15 in last 5 minutes
+2025-05-24 13:06:21.170173: [ALERT] High failed login attempts from 5f7e14b1: 90 in last 5 minutes
+2025-05-24 13:06:21.170297: [ALERT] High failed login attempts from 3a2b5b91: 44 in last 5 minutes
+2025-05-24 13:06:21.170359: [ALERT] High failed login attempts from 8b96df88: 39 in last 5 minutes
+2025-05-24 13:06:21.170415: [ALERT] High failed login attempts from 4f4c4f2a: 17 in last 5 minutes
+2025-05-24 13:06:23.472668: [ALERT] High failed login attempts from 5f7e14b1: 97 in last 5 minutes
+2025-05-24 13:06:23.473219: [ALERT] High failed login attempts from 3a2b5b91: 47 in last 5 minutes
+2025-05-24 13:06:23.473362: [ALERT] High failed login attempts from 8b96df88: 42 in last 5 minutes
+2025-05-24 13:06:23.473485: [ALERT] High failed login attempts from 4f4c4f2a: 19 in last 5 minutes
+2025-05-24 13:06:24.470363: [ALERT] High failed login attempts from 5f7e14b1: 104 in last 5 minutes
+2025-05-24 13:06:24.470492: [ALERT] High failed login attempts from 3a2b5b91: 50 in last 5 minutes
+2025-05-24 13:06:24.470550: [ALERT] High failed login attempts from 8b96df88: 45 in last 5 minutes
+2025-05-24 13:06:24.470604: [ALERT] High failed login attempts from 4f4c4f2a: 21 in last 5 minutes
+2025-05-24 13:06:24.639013: [ALERT] High failed login attempts from 5f7e14b1: 111 in last 5 minutes
+2025-05-24 13:06:24.639135: [ALERT] High failed login attempts from 3a2b5b91: 53 in last 5 minutes
+2025-05-24 13:06:24.639227: [ALERT] High failed login attempts from 8b96df88: 48 in last 5 minutes
+2025-05-24 13:06:24.639284: [ALERT] High failed login attempts from 4f4c4f2a: 23 in last 5 minutes
+2025-05-24 13:06:26.720419: [ALERT] High failed login attempts from 5f7e14b1: 118 in last 5 minutes
+2025-05-24 13:06:26.720560: [ALERT] High failed login attempts from 3a2b5b91: 56 in last 5 minutes
+2025-05-24 13:06:26.720634: [ALERT] High failed login attempts from 8b96df88: 51 in last 5 minutes
+2025-05-24 13:06:26.720700: [ALERT] High failed login attempts from 4f4c4f2a: 25 in last 5 minutes
+2025-05-24 13:06:26.720760: [ALERT] High failed login attempts from 13d3629a: 6 in last 5 minutes
+2025-05-24 13:06:27.220385: [ALERT] High failed login attempts from 5f7e14b1: 125 in last 5 minutes
+2025-05-24 13:06:27.220521: [ALERT] High failed login attempts from 3a2b5b91: 59 in last 5 minutes
+2025-05-24 13:06:27.220581: [ALERT] High failed login attempts from 8b96df88: 54 in last 5 minutes
+2025-05-24 13:06:27.220638: [ALERT] High failed login attempts from 4f4c4f2a: 27 in last 5 minutes
+2025-05-24 13:06:27.220692: [ALERT] High failed login attempts from 13d3629a: 7 in last 5 minutes
+
+
