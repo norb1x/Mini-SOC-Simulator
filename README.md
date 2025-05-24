@@ -16,14 +16,18 @@ Mini SOC is a lightweight security monitoring simulator designed to run on a Ras
 
 ## 🗂️ File Structure
 ```
+├── .gitignore           # Git ignore file
+├── LICENSE              # License file
+└── README.md            # Project README file
 mini-soc/
-├── norb1x-soc.py # Main SOC application - Change it to whatever name u want 
-├── system_stats.py # CPU temperature and RAM usage reader
-├── log_parser.py # Log parsing and event tracking
-├── alerts.py # Alert detection logic
-├── defense.py # IP blocking mechanism
-├── attack_simulator.py # Simulated SSH login attempts
-├── README.md # This file
+├── alerts.log           # Log of detected alerts
+├── alerts.py            # Alert detection logic
+├── attack_simulator.py  # Simulated SSH login attempts
+├── blocked_ips.log      # Log of blocked IP addresses
+├── defense.py           # IP blocking mechanism
+├── log_parser.py        # Log parsing and event tracking
+├── mini-soc.py          # Main SOC application - Change the name if you want
+├── system_stats.py      # CPU temperature and RAM usage reader
 ```
 
 ## ⚙️ Requirements
