@@ -15,6 +15,7 @@ Mini SOC is a lightweight security monitoring simulator designed to run on a Ras
 - 🧼 Masking of IP addresses and ports for clean output
 
 ## 🗂️ File Structure
+
 mini-soc/
 ├── norb1x-soc.py # Main SOC application - Change it to whatever name u want 
 ├── system_stats.py # CPU temperature and RAM usage reader
