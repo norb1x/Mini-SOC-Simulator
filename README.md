@@ -2,7 +2,7 @@
 
 Mini SOC is a lightweight security monitoring simulator designed to run on a Raspberry Pi or any Linux system. It tracks SSH login activity in real time, summarizes events, detects suspicious behavior, triggers alerts, and optionally blocks attacking IPs.
 
-## 🎬 Demo
+## 🎬 Preview [ DEMO ] 
 ![Demo](https://s1.ezgif.com/tmp/ezgif-18bb3453e18e72.gif)
 
 ## ✨ Features
