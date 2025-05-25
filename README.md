@@ -12,7 +12,7 @@ Mini SOC is a lightweight security monitoring simulator designed to run on a Ras
 - 🚨 Detection of high failed login rates with alerts
 - ⛔ Automatic IP blocking on suspicious activity
 - 🧪 Simulated login attempts from spoofed IPs
-- 🧼 Masking of IP addresses and ports for clean output
+- 🧼 Masking of IP addresses and ports for clean output (for github)
 
 ## 🗂️ File Structure
 ```
