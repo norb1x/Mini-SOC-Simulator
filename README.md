@@ -47,7 +47,7 @@ mini-soc/
 python nameofursoc.py
 
 3. Or run in simulation mode:
-   python norb1x-soc.py -- simulate
+   python urname-soc.py -- simulate
 
    
 # 🧠 How It Works
